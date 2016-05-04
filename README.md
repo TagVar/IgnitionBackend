@@ -58,6 +58,5 @@ Packaged that create node files will create a single API file within the directo
 
 These node files contain simple functions for rendering data from the backend, usually with the use of templates and data deliminations. All nodes provided by TagVar are AJAX compatible, and can thus provide an easy way to create Single Page Applications that require a backend.
 
-Project Creator: Allen Hundley
-
+Project Creator: Allen Hundley\n
 Email: Allen@TagVar.com
