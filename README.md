@@ -11,12 +11,12 @@ BASE INSTALLATION INSTRUCTIONS:
 
 The following instructions will teach you how to install the package manager of IgnitionBackend. This application reads Ignition packages, allows for the creation of new Ignition users, and allows pre-existing users with appropriate permissions to edit the permissions of other users. 
 
-1) Donload the source files for IgnitionBacend either through cloning the repository at https://github.com/TagVar/IgnitionBackend.git, or downloading a ZIP compressed version at https://github.com/TagVar/IgnitionBackend/archive/master.zip.
-2) Navigate into the "Package Manager" directory. Move into the "config" directory. Edit the "main_config.php" file with a plain text editor.
+1) Donload the source files for IgnitionBacend either through cloning the repository at https://github.com/TagVar/IgnitionBackend.git, or downloading a ZIP compressed version [here](https://github.com/TagVar/IgnitionBackend/archive/master.zip).<br />
+2) Navigate into the "Package Manager" directory. Move into the "config" directory. Edit the "main_config.php" file with a plain text editor.<br />
 3) Add a root username and password the the "main_config.php" file. If you wish to, define a title for your administration panel. Finally, define the MySQL host, username, password, and database for your IgnitionBackend installation. Save the changes to the file. Please use an empty MySQL database to install IgnitionBackend. 
 
 "main_config.php" Example: 
-
+```
 <?php
 
   $username = "MyUsername";
@@ -32,6 +32,7 @@ The following instructions will teach you how to install the package manager of 
   $connection = new mysqli($sql_host, $sql_username, $sql_password, $sql_database);
 
 ?>
+```
 
 
 4) Navigate to the root of your http server. Create a directory anywhere in the public folder of your webserver. Copy the contents of the "Package Manager" directory into the directory you just created. IgnitionBackend is extrmely portable and will function regardless of path as long as the containing directory is within your server's public directory.
@@ -43,11 +44,11 @@ Packages are where the actual functionality of IgnitionBackend lies. TagVar has 
 
 Note that the Settings package is pre-installed in Ignition. This package is required for the package manager application to function properly, and must not be removed.
 
-1) Navigate to the directory where the IgnitionBackend package manager is installed. 
-2) Enter the "packages" directory.
-3) Copy the directory (NOT the contents) of a package into the "packages" directory. 
-4) Login to IgnitionBackend with a user that has Root permissions.
-5) Follow the graphical prompts to install the package. 
+1) Navigate to the directory where the IgnitionBackend package manager is installed.<br />
+2) Enter the "packages" directory.<br />
+3) Copy the directory (NOT the contents) of a package into the "packages" directory.<br />
+4) Login to IgnitionBackend with a user that has Root permissions.<br />
+5) Follow the graphical prompts to install the package.<br />
 
 
 ON NODES:
@@ -58,5 +59,5 @@ Packaged that create node files will create a single API file within the directo
 
 These node files contain simple functions for rendering data from the backend, usually with the use of templates and data deliminations. All nodes provided by TagVar are AJAX compatible, and can thus provide an easy way to create Single Page Applications that require a backend.
 
-Project Creator: Allen Hundley'<br />'
+Project Creator: Allen Hundley<br />
 Email: Allen@TagVar.com
