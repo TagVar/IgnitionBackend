@@ -3,7 +3,7 @@ A modular, portable, AJAX compatible back-end for web applications with a custom
 
 SYSTEM REQUIREMENTS: 
 
-IgnitionBackend has been tested on a Linux machine running Debian Jessie (05/05/2016), Apache (05/05/2016), MySQL (05/05/2016), and PHP 5. Ignition has not been tested under any other conditions, but should function regardless of Linux distribution, or Apache distribution. PHP must be at least version 5, and later versions have not been tested for compatibility. TagVar made an initial test of IgnitionBackend on a WAMP server on Windows 7 whcih yielded compatibility issues, mostly due to pathing.
+IgnitionBackend has been tested on a Linux machine running Debian Jessie (05/04/2016), Apache (05/04/2016), MySQL (05/04/2016), and PHP 5. Ignition has not been tested under any other conditions, but should function regardless of Linux distribution, or Apache distribution. PHP must be at least version 5, and later versions have not been tested for compatibility. TagVar made an initial test of IgnitionBackend on a WAMP server on Windows 7 whcih yielded compatibility issues, mostly due to pathing.
 
 The root directory of your server must not contain a directory named "nodes".
 
