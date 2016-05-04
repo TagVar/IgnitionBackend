@@ -1,0 +1,3 @@
+[27-Apr-2016 20:17:21 UTC] PHP Notice:  Undefined variable: use_stripe_checked in /home/allenph1/public_html/admin/packages/ecommerce/settings/index.php on line 50
+[27-Apr-2016 20:17:21 UTC] PHP Notice:  Undefined variable: stripe_secret_value in /home/allenph1/public_html/admin/packages/ecommerce/settings/index.php on line 52
+[27-Apr-2016 20:17:21 UTC] PHP Notice:  Undefined variable: stripe_public_value in /home/allenph1/public_html/admin/packages/ecommerce/settings/index.php on line 53

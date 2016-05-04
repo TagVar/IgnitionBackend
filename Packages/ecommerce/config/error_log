@@ -1,0 +1,23 @@
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: requested_tables in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 790
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 791
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: requested_tables in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 792
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 793
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: requested_tables in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 794
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 795
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: requested_tables in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 796
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 797
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: use_stripe_checked in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 799
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: secret_key_value in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 801
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: publishable_key_value in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 803
+[27-Apr-2016 20:15:38 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 805
+[27-Apr-2016 20:16:10 UTC] PHP Notice:  Undefined index: use_stripe in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 5
+[27-Apr-2016 20:16:10 UTC] PHP Warning:  fopen(/home/allenph1/public_html/nodes/resources/ecommerce/functions.php): failed to open stream: No such file or directory in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 605
+[27-Apr-2016 20:16:10 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 657
+[27-Apr-2016 20:16:10 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 658
+[27-Apr-2016 20:16:10 UTC] PHP Warning:  rename(stripe,/home/allenph1/public_html/nodes/resources/ecommerce/stripe): No such file or directory in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 659
+[27-Apr-2016 20:16:10 UTC] PHP Notice:  Undefined index: product_category_table_name in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 791
+[27-Apr-2016 20:16:10 UTC] PHP Notice:  Undefined index: product_table_name in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 793
+[27-Apr-2016 20:16:10 UTC] PHP Notice:  Undefined index: promo_table_name in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 795
+[27-Apr-2016 20:16:10 UTC] PHP Notice:  Undefined index: records_table_name in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 797
+[27-Apr-2016 20:16:10 UTC] PHP Notice:  Undefined variable: use_stripe_checked in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 799
+[27-Apr-2016 20:16:10 UTC] PHP Notice:  Undefined index: main in /home/allenph1/public_html/admin/packages/ecommerce/config/install.php on line 805

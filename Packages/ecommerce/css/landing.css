@@ -1,0 +1,32 @@
+.sub-package-button {
+
+	width: 49%;
+	height: 175px;
+	background-color: #006bfa;
+  	color: #fff;
+  	font-weight: bold;
+  	font-size: 45px;
+  	text-align: center;
+  	line-height: 175px;
+  	display: inline-block;
+
+}
+
+.sub-package-button:hover {
+
+	background-color: #0046fa;
+	color: #fff;
+
+}
+
+.left {
+
+	margin-right: 1.4%;
+
+}
+
+.bottom {
+
+	margin-top: 15px;
+
+}

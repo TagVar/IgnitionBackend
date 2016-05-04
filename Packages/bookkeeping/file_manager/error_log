@@ -1,0 +1,9 @@
+[20-Apr-2016 09:07:25 UTC] PHP Notice:  Undefined index: delete in /home/allenph1/public_html/admin/packages/bookkeeping/file_manager/index.php on line 27
+[20-Apr-2016 09:07:25 UTC] PHP Notice:  Undefined index: delete in /home/allenph1/public_html/admin/packages/bookkeeping/file_manager/index.php on line 27
+[23-Apr-2016 02:19:59 UTC] PHP Notice:  Undefined index: delete in /home/allenph1/public_html/admin/packages/bookkeeping/file_manager/index.php on line 27
+[23-Apr-2016 02:20:02 UTC] PHP Notice:  Undefined variable: new_name_checked in /home/allenph1/public_html/admin/packages/bookkeeping/file_manager/add.php on line 76
+[23-Apr-2016 02:20:02 UTC] PHP Notice:  Undefined variable: filename in /home/allenph1/public_html/admin/packages/bookkeeping/file_manager/add.php on line 77
+[23-Apr-2016 02:20:02 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/bookkeeping/file_manager/add.php on line 82
+[23-Apr-2016 02:20:04 UTC] PHP Notice:  Undefined index: delete in /home/allenph1/public_html/admin/packages/bookkeeping/file_manager/index.php on line 27
+[23-Apr-2016 02:20:19 UTC] PHP Notice:  Undefined index: delete in /home/allenph1/public_html/admin/packages/bookkeeping/file_manager/index.php on line 27
+[27-Apr-2016 20:21:17 UTC] PHP Notice:  Undefined index: delete in /home/allenph1/public_html/admin/packages/bookkeeping/file_manager/index.php on line 27

@@ -1,0 +1,3 @@
+[20-Apr-2016 09:03:39 UTC] PHP Notice:  Undefined variable: update_records_query in /home/allenph1/public_html/admin/packages/bookkeeping/timeclock/php/record.php on line 72
+[20-Apr-2016 09:08:32 UTC] PHP Notice:  Undefined variable: update_records_query in /home/allenph1/public_html/admin/packages/bookkeeping/timeclock/php/record.php on line 72
+[20-Apr-2016 09:09:43 UTC] PHP Notice:  Undefined variable: update_records_query in /home/allenph1/public_html/admin/packages/bookkeeping/timeclock/php/record.php on line 72

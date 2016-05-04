@@ -1,0 +1,87 @@
+body {
+
+  background-color: rgb(227, 227, 227);
+
+}
+a {
+
+  color: #006bfa;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+a:hover {
+
+  color: #333;
+
+}
+
+input[type=submit] {
+
+  background-color: #006bfa;
+  padding: 10px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 10px;
+  width: 100%;
+
+}
+
+input[type=submit]:hover {
+
+  background-color: #0046fa;
+
+}
+
+input[type=text], input[type=password] {
+
+  padding: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  width: 100%;
+
+}
+
+form {
+
+  padding: 0;
+  margin: 0;
+
+}
+
+.heading {
+
+  color: #333;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+
+#portal {
+
+    color: #333;
+    font-size: 20px;
+    padding: 50px;
+    margin: 100px auto 0 auto;
+    border: 2px solid #333;
+    width: 300px;
+    background-color: #fff;
+
+}
+
+#portal-error {
+
+  margin-top: 10px;
+  color: red;
+
+}
+
+#main-container {
+
+  width: 904px;
+  margin: 100px auto 100px auto;
+
+}

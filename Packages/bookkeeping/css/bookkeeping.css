@@ -1,0 +1,174 @@
+body {
+
+  background-color: rgb(227, 227, 227);
+
+}
+a {
+
+  color: #006bfa;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+a:hover {
+
+  color: #333;
+
+}
+
+input[type=submit], input[type=button], button {
+
+  background-color: #006bfa;
+  padding: 10px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 10px;
+  width: 100%;
+
+}
+
+select {
+  
+  padding: 6px;
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 10px;
+  width: 100%;
+  
+}
+
+input[type=submit]:hover, button:hover {
+
+  background-color: #0046fa;
+
+}
+
+input[type=text] {
+
+  padding: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  width: 100%;
+
+}
+
+textarea {
+
+  padding: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  width: 100%;
+  resize: none;
+  height: 500px;
+
+}
+
+table, th, td {
+
+  border: 1px solid #333;
+  word-wrap: break-word;
+
+}
+
+table {
+
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 900px;
+
+}
+
+
+th {
+
+    background-color: #0098fa;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 20px;
+
+}
+
+tr:nth-child(even) {
+
+  background-color: #fff;
+
+}
+
+tr:nth-child(odd) {
+
+  background-color: #d1ecf9;
+
+}
+
+td {
+
+  height: 50px;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+form {
+
+  padding: 0;
+  margin: 0;
+
+}
+
+.heading {
+
+  color: #333;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+
+.content-border {
+
+  color: #333;
+  font-size: 20px;
+  padding: 50px;
+  border: 2px solid #333;
+  background-color: #fff;
+
+}
+
+.filter-container { 
+    
+  border: 1px solid #000;
+  background-color: #d1ecf9;
+  padding: 25px 0 25px 50px;
+  margin: 25px 0 25px 0;
+    
+}
+
+#main-container {
+
+  width: 904px;
+  margin: 100px auto 100px auto;
+
+}
+
+#content {
+
+  height: 500px;
+
+}
+
+#date-filter-container > input[type=text] {
+
+  width: auto;
+
+}
+
+#record-table > th, td {
+
+    padding: 5px;
+
+}

@@ -1,0 +1,61 @@
+[09-Apr-2016 03:49:59 UTC] PHP Notice:  Undefined variable: password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 120
+[09-Apr-2016 03:49:59 UTC] PHP Notice:  Undefined variable: confirm_password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 121
+[09-Apr-2016 03:49:59 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 04:58:46 UTC] PHP Notice:  Undefined variable: password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 120
+[09-Apr-2016 04:58:46 UTC] PHP Notice:  Undefined variable: confirm_password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 121
+[09-Apr-2016 04:58:46 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 04:58:51 UTC] PHP Notice:  Undefined index: root_checkbox in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 42
+[09-Apr-2016 04:58:51 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 67
+[09-Apr-2016 04:58:51 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 04:59:36 UTC] PHP Notice:  Undefined variable: password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 120
+[09-Apr-2016 04:59:36 UTC] PHP Notice:  Undefined variable: confirm_password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 121
+[09-Apr-2016 04:59:36 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 04:59:41 UTC] PHP Notice:  Undefined index: root_checkbox in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 42
+[09-Apr-2016 04:59:41 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 67
+[09-Apr-2016 04:59:41 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 05:01:34 UTC] PHP Notice:  Undefined variable: password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 120
+[09-Apr-2016 05:01:34 UTC] PHP Notice:  Undefined variable: confirm_password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 121
+[09-Apr-2016 05:01:34 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 05:01:39 UTC] PHP Notice:  Undefined index: root_checkbox in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 42
+[09-Apr-2016 05:01:39 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 67
+[09-Apr-2016 05:01:39 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 05:02:55 UTC] PHP Notice:  Undefined variable: password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 120
+[09-Apr-2016 05:02:55 UTC] PHP Notice:  Undefined variable: confirm_password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 121
+[09-Apr-2016 05:02:55 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 05:03:03 UTC] PHP Notice:  Undefined index: root_checkbox in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 42
+[09-Apr-2016 05:03:03 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 67
+[09-Apr-2016 05:03:03 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 09:40:24 UTC] PHP Notice:  Undefined variable: password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 120
+[09-Apr-2016 09:40:24 UTC] PHP Notice:  Undefined variable: confirm_password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 121
+[09-Apr-2016 09:40:24 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 09:40:31 UTC] PHP Notice:  Undefined variable: password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 120
+[09-Apr-2016 09:40:31 UTC] PHP Notice:  Undefined variable: confirm_password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 121
+[09-Apr-2016 09:40:31 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[09-Apr-2016 11:27:17 UTC] PHP Notice:  Undefined index: logged_in in /home/allenph1/public_html/admin/functions/login_check.php on line 5
+[09-Apr-2016 11:27:17 UTC] PHP Notice:  Undefined variable: ignition_user_permissions in /home/allenph1/public_html/admin/functions/login_check.php on line 21
+[09-Apr-2016 11:27:17 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/allenph1/public_html/admin/functions/login_check.php on line 21
+[09-Apr-2016 11:27:17 UTC] PHP Notice:  Undefined variable: ignition_user_permissions in /home/allenph1/public_html/admin/functions/login_check.php on line 24
+[09-Apr-2016 11:27:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allenph1/public_html/admin/functions/login_check.php on line 24
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: full_name in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 112
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: email in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 113
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: phone_number in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 114
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: username_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 117
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 120
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: confirm_password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 121
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: selected_user_permissions in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 134
+[14-Apr-2016 04:34:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 134
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: selected_user_permissions in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 160
+[14-Apr-2016 04:34:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 160
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: selected_user_permissions in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 160
+[14-Apr-2016 04:34:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 160
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: selected_user_permissions in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 160
+[14-Apr-2016 04:34:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 160
+[14-Apr-2016 04:34:52 UTC] PHP Notice:  Undefined variable: selected_user_permissions in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 160
+[14-Apr-2016 04:34:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 160
+[03-May-2016 22:46:55 UTC] PHP Notice:  Undefined variable: password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 120
+[03-May-2016 22:46:55 UTC] PHP Notice:  Undefined variable: confirm_password_field in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 121
+[03-May-2016 22:46:55 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
+[03-May-2016 22:46:59 UTC] PHP Notice:  Undefined index: root_checkbox in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 42
+[03-May-2016 22:46:59 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 67
+[03-May-2016 22:46:59 UTC] PHP Notice:  Undefined variable: error in /home/allenph1/public_html/admin/packages/settings/pages/login/edit.php on line 123
