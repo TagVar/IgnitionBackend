@@ -35,7 +35,7 @@ The following instructions will teach you how to install the package manager of 
 ```
 
 
-4) Navigate to the root of your http server. Create a directory anywhere in the public folder of your webserver. Copy the contents of the "Package Manager" directory into the directory you just created. IgnitionBackend is extrmely portable and will function regardless of path as long as the containing directory is within your server's public directory.
+**4) Navigate to the root of your http server. Create a directory anywhere in the public folder of your webserver. Copy the contents of the "Package Manager" directory into the directory you just created. IgnitionBackend is extrmely portable and will function regardless of path as long as the containing directory is within your server's public directory.**
 
 
 # PACKAGE INSTALLATION INSTRUCTIONS:
