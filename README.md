@@ -11,7 +11,7 @@ BASE INSTALLATION INSTRUCTIONS:
 
 The following instructions will teach you how to install the package manager of IgnitionBackend. This application reads Ignition packages, allows for the creation of new Ignition users, and allows pre-existing users with appropriate permissions to edit the permissions of other users. 
 
-1) Donload the source files for IgnitionBacend either through cloning the repository at "https://github.com/TagVar/IgnitionBackend.git", or downloading a ZIP compressed version at "https://github.com/TagVar/IgnitionBackend/archive/master.zip".
+1) Donload the source files for IgnitionBacend either through cloning the repository at https://github.com/TagVar/IgnitionBackend.git, or downloading a ZIP compressed version at https://github.com/TagVar/IgnitionBackend/archive/master.zip.
 2) Navigate into the "Package Manager" directory. Move into the "config" directory. Edit the "main_config.php" file with a plain text editor.
 3) Add a root username and password the the "main_config.php" file. If you wish to, define a title for your administration panel. Finally, define the MySQL host, username, password, and database for your IgnitionBackend installation. Save the changes to the file. Please use an empty MySQL database to install IgnitionBackend. 
 
@@ -59,4 +59,5 @@ Packaged that create node files will create a single API file within the directo
 These node files contain simple functions for rendering data from the backend, usually with the use of templates and data deliminations. All nodes provided by TagVar are AJAX compatible, and can thus provide an easy way to create Single Page Applications that require a backend.
 
 Project Creator: Allen Hundley
+
 Email: Allen@TagVar.com
